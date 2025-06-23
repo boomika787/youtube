@@ -23,4 +23,4 @@ README.md        - Project documentation
 ```
 
 ## Project Link
-You can view the project live here: [YouTube Clone]([https://boomikayoutubeclone.netlify.app/])
+You can view the project live here: [YouTube Clone](https://boomikayoutubeclone.netlify.app/)
